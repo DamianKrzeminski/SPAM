@@ -1,0 +1,1 @@
+post="_przed";n="4";l="S";dir="Subject/Subject$n/";file="$l$n$post";cat "$dir$file".txt | grep "Sending\|Blocked" > "$dir"R"$file$post".txt

@@ -1,0 +1,1 @@
+sendmail -vt < ./mail.txt
